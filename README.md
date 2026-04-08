@@ -1,5 +1,9 @@
-## Hi there 👋
+## 👨‍💻 System Status
 
+- 🎓 **Education:** Computer Science Student at Yeungnam University.
+- 💻 **Studying:** C/C++ and Python with Deep learning classes.
+- ⚙️ **Environment:** Mainly using Windows 11, also exploring the Fujitsu FM TOWNS environment.
+- 📫 **Contact:** jinbeom1617@gmail.com or jinbeom@yu.ac.kr
 <!--
 **therealculprit/therealculprit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
