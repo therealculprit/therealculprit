@@ -1,4 +1,4 @@
-## 👨‍💻 System Status
+## 👨‍💻 Personal Introduction
 
 - 🎓 **Education:** Computer Science Student at Yeungnam University.
 - 💻 **Studying:** C/C++ and Python with Deep learning classes.
